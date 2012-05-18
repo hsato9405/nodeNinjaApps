@@ -1,0 +1,4 @@
+nodeNinjaApps
+=============
+
+Node-Ninja Git
